@@ -1,4 +1,0 @@
-token = '619536347:AAGFmoe000TG9deXuCNYEkApnmpJSUES0e0'
-chat_id = ['268998818']
-# chat_id = ['268998818', '206760044']
-vk_token = '3c1627af3c1627af3c1627af473c4de60b33c163c1627af651eb5a41f1f573bd02346c5'
