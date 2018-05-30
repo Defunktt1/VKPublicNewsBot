@@ -2,5 +2,5 @@ env.py
 venv*
 .idea/*
 .idea
-__pucache__
-__pucache__/*
+__pycache__
+__pycache__/*
